@@ -1,0 +1,29 @@
+{
+  "name": "hw_13_burger",
+  "version": "1.0.0",
+  "description": "Burger app tat uses handlebars and database",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MylesB1525/HW_13_Burger.git"
+  },
+  "keywords": [
+    "Eat",
+    "Da",
+    "Burger"
+  ],
+  "author": "Myles Burkemper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MylesB1525/HW_13_Burger/issues"
+  },
+  "homepage": "https://github.com/MylesB1525/HW_13_Burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.1",
+    "mysql": "^2.18.1"
+  }
+}
