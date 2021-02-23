@@ -4,7 +4,8 @@
   "description": "Burger app tat uses handlebars and database",
   "main": "index.js",
   "scripts": {
-    "test": "none"
+    "test": "none",
+    "start": "node server"
   },
   "repository": {
     "type": "git",
